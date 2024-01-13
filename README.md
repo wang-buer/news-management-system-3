@@ -1,10 +1,4 @@
-# 新闻管理系统
-
-## 获取方式
-
-扫描下方，回复关键词  ： “**新闻3**”   
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+# 新闻管理系统3
 
 ## 1、项目介绍
 
@@ -35,49 +29,46 @@
 
 ### 4.1 登录
 
-![管理员登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206082341248.jpg)
+![管理员登录](https://www.codeshop.fun/Typora-Images/202206082341248.jpg)
 
 ### 4.2前端模块
 
-![首页](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206082341555.jpg)
+![首页](https://www.codeshop.fun/Typora-Images/202206082341555.jpg)
 
-![新闻分类查看](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206082341259.jpg)
+![新闻分类查看](https://www.codeshop.fun/Typora-Images/202206082341259.jpg)
 
-![文章评论](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206082341929.jpg)
+![文章评论](https://www.codeshop.fun/Typora-Images/202206082341929.jpg)
 
 ### 4.3管理员 模块
 
-![管理员-新闻栏目管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206082342185.jpg)
+![管理员-新闻栏目管理](https://www.codeshop.fun/Typora-Images/202206082342185.jpg)
 
-![管理员-新闻资讯管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206082342229.jpg)
+![管理员-新闻资讯管理](https://www.codeshop.fun/Typora-Images/202206082342229.jpg)
 
-![管理员-新闻评论管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206082342513.jpg)
+![管理员-新闻评论管理](https://www.codeshop.fun/Typora-Images/202206082342513.jpg)
 
-![管理员-用户管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206082342968.jpg)
+![管理员-用户管理](https://www.codeshop.fun/Typora-Images/202206082342968.jpg)
 
-![管理员-友情链接管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206082342089.jpg)
+![管理员-友情链接管理](https://www.codeshop.fun/Typora-Images/202206082342089.jpg)
 
-![管理员-公告管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206082342676.jpg)
+![管理员-公告管理](https://www.codeshop.fun/Typora-Images/202206082342676.jpg)
 
-![管理员-账号管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206082342739.jpg)
+![管理员-账号管理](https://www.codeshop.fun/Typora-Images/202206082342739.jpg)
 
-![管理员-发布新闻](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206082342138.jpg)
+![管理员-发布新闻](https://www.codeshop.fun/Typora-Images/202206082342138.jpg)
 
-![管理员-发布公告](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206082342489.jpg)
+![管理员-发布公告](https://www.codeshop.fun/Typora-Images/202206082342489.jpg)
 
 ### 4.4 用户模块
 
-![用户个人资料管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206082341189.jpg)
+![用户个人资料管理](https://www.codeshop.fun/Typora-Images/202206082341189.jpg)
 
 ### 4.5 文档目录
 
-![文档目录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202206082343916.jpg)
+![文档目录](https://www.codeshop.fun/Typora-Images/202206082343916.jpg)
 
-## 5、获取方式
+## 获取方式
 
-扫描下方，回复关键词  ： **新闻3**   ，获取源码
+下方扫一扫关注后，后台回复关键词：**新闻**，查看导入教程视频、sql脚本和源码等
 
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
-
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
